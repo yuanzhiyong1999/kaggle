@@ -4,7 +4,7 @@ from torch.utils import data
 from tqdm import tqdm
 import pandas as pd
 
-# kaggle 链接
+# kaggle 房价预测
 # https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 class Model(nn.Module):
