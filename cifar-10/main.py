@@ -8,7 +8,7 @@ import torchvision
 from torch import nn
 from tqdm import tqdm
 
-# kaggle 链接
+# kaggle cifar-10
 # https://www.kaggle.com/competitions/cifar-10
 
 data_dir = 'data/'
